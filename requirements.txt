@@ -2,6 +2,6 @@ pandas==1.0.5
 watermark==2.2.0
 openpyxl==3.0.4
 numpy==1.18.5
-Cryptodome==3.10.1
+pycryptodomex==3.10.1
 json==2.0.9
 sympy==1.6.1
